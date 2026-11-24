@@ -1,11 +1,21 @@
-<h1 align="center">👾 Hello</h1>
+<h1 align="center">👾 Hello there</h1>
+
 <p align="center">
-I design structure from chaos & turn data into decisions.
+  I'm a curious person who loves working with data.
 </p>
+
+<p align="center">
+  I like figuring out complex problems, turning them into clear dashboards, and learning new things along the way.
+</p>
+
+<br>
+
+
 
 ### 🛠️ Technical Skills
 
 
-📊 BI & Low-Code → Power BI · Power Apps · Power Automate</p>
-⚙️ Programming → Python</p>
-🗃️  Data → SQL · Modeling · Transformation · Visualization 
+* **BI & Low-Code:** Power BI, Power Apps, Power Automate <br><br>
+* **Data:** SQL, Data Modeling, Transformation, Visualization <br><br>
+* **Programming:** Python 
+
