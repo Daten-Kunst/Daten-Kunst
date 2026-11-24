@@ -9,8 +9,9 @@
 </p>
 
 <br>
+<img align="right" src="./malloon-kawaii.gif" width="180" alt="Cute cat GIF" />
 
-
+<br>
 
 ### 🛠️ Technical Skills
 
