@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  I like figuring out complex problems, turning them into clear dashboards, and learning new things along the way.
+  I like figuring out complex problems, creating dashboards, and learning new things along the way.
 </p>
 
 <br>
 <img align="right" src="./malloon-kawaii.gif" width="180" alt="Cute cat GIF" />
 
-<br>
+
 
 ### 🛠️ Technical Skills
 
